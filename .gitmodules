@@ -1,0 +1,3 @@
+[submodule "lib/or-tools"]
+	path = lib/or-tools
+	url = https://github.com/google/or-tools
